@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": false
+  }
+}

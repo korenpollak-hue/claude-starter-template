@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment / Secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+
+# Claude Code runtime data (not for sharing)
+.claude/history.jsonl
+.claude/stats-cache.json
+.claude/sessions/
+.claude/telemetry/
+.claude/todos/
+.claude/debug/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs
+*.log
